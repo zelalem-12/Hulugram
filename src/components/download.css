@@ -1,0 +1,29 @@
+#downloadContainer {
+    padding-top: 1em;
+    width: 80%;
+    margin: 0 auto 350px;
+}
+#downloadContainer h1{
+margin: 0 0 .3em 10em;
+font-weight: lighter;
+text-decoration: #29303D;
+}
+#downloadContainer>h3{
+  margin: 0 0 2em 5em;
+  font-weight: 100;
+  }
+  #downloadContainer>p{
+    margin: 0 0 2em 20em;
+    }
+
+ #downloadContainer .stat {
+   width: 100%;
+   padding-left: 50px;
+   background-color:#000;
+  }
+  #downloadContainer .stat li {
+     margin: 100px;
+     margin-top: 0;
+
+     
+   }
