@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hulugram/static/css/main.aa120f0c.chunk.css",
+    "main.js": "/hulugram/static/js/main.1ef3446e.chunk.js",
+    "main.js.map": "/hulugram/static/js/main.1ef3446e.chunk.js.map",
+    "runtime-main.js": "/hulugram/static/js/runtime-main.c165e918.js",
+    "runtime-main.js.map": "/hulugram/static/js/runtime-main.c165e918.js.map",
+    "static/js/2.e42fc959.chunk.js": "/hulugram/static/js/2.e42fc959.chunk.js",
+    "static/js/2.e42fc959.chunk.js.map": "/hulugram/static/js/2.e42fc959.chunk.js.map",
+    "index.html": "/hulugram/index.html",
+    "precache-manifest.caa14813057e2951720aa39a4afc55a1.js": "/hulugram/precache-manifest.caa14813057e2951720aa39a4afc55a1.js",
+    "service-worker.js": "/hulugram/service-worker.js",
+    "static/css/main.aa120f0c.chunk.css.map": "/hulugram/static/css/main.aa120f0c.chunk.css.map",
+    "static/js/2.e42fc959.chunk.js.LICENSE": "/hulugram/static/js/2.e42fc959.chunk.js.LICENSE",
+    "static/media/index.css": "/hulugram/static/media/telegram_for_ios.9c36d879.jfif",
+    "static/media/hulugram blueish 2.png": "/hulugram/static/media/hulugram blueish 2.b3ba89ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c165e918.js",
+    "static/js/2.e42fc959.chunk.js",
+    "static/css/main.aa120f0c.chunk.css",
+    "static/js/main.1ef3446e.chunk.js"
+  ]
+}

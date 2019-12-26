@@ -8,6 +8,7 @@ import screeshoots5 from '../images/device-2019-02-14-234002.png';
 import screeshoots6 from '../images/device-2019-02-14-234110.png';
 
 class Image extends Component {
+
   render() {
     return (
       <div id="stasticsContainer">
